@@ -36,7 +36,7 @@ class CallCenterController extends GetxController with SingleGetTickerProviderMi
   var imageFoto;
   late Animation<Offset> animation;
   late AnimationController animationController;
-
+ // adaskd;lasd
   scrool(notification){
     final ScrollDirection direction = notification.direction;
     if (direction == ScrollDirection.reverse) {
